@@ -1,7 +1,7 @@
-numpy==1.22
-keras==2.13.1
-tensorflow==2.13.0
+numpy
+keras
+tensorflow==2.10
 np_utils
 matplotlib
 scipy
-gym==0.12.5
+gym==0.26.2
