@@ -9,11 +9,9 @@
   a. What do computer scientists do and why does it matter?<br>
       Rather than just writing code without thinking too much of what the code will do or how it will be used, computer scientists develop code with the end use in mind.
      They utilize math, science, and computer technology along with software patterns to develop usable and powerful software to solve a particular challenge.
-   
-  b. How do I approach a problem as a computer scientist?<br>
+   b. How do I approach a problem as a computer scientist?<br>
     By ensuring that all of the technology and coding decisions are in the best interest of the business goal the software is meant to solve.  This should take into account cost, speed of execution, ease of use, and other factors.
-  
-  c. What are my ethical responsibilities to the end user and the organization?<br>
+   c. What are my ethical responsibilities to the end user and the organization?<br>
     Ethical responsibilities are of the utmost importance, especially when developing machine learning systems.  It is the ethical responsibility of the computer scientist to ensure that bias of any kind is kept out of the software with as much certainty as we can provide.<br>
     This can include ensuring data sources use as many diverse inputs as possible and that the software be as inclusive as possible.  This can be represented by including things like color schemes for color-blind users and ensuring that screen readers can use the software appropriately.
   
