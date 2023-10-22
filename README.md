@@ -1,6 +1,6 @@
 # cs370
 1. Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?<br>
-  For this project we had to develop a program to allow the pirate in a 10x10 grid maze to find the treasure.
+  For this project we had to develop a program to allow the pirate in an 8x8 grid maze to find the treasure.
   We had to use a machine learning algorithm to facilitate this task.  We were given most of the program functionality including the model.
   We had to implement the algorithm that used this model to complete the task of getting the pirate to the treasure.  I chose the Actor-Critic deep Q learning algorithm to complete the task.
 
